@@ -1,0 +1,267 @@
+[17-Apr-2025 15:16:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:16:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:16:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:19:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:24:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:30:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:30:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:30:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:31:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:31:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:31:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:31:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:31:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:31:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:32:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:32:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:32:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:32:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:32:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:32:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 2
+[17-Apr-2025 15:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/vmafixbj/public_html/koneksi.php:5
+Stack trace:
+#0 /home/vmafixbj/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/vmafixbj/public_html/koneksi.php on line 5
+[17-Apr-2025 15:37:10 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vmafixbj/public_html/proses_login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:17 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vmafixbj/public_html/proses_login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:27 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vmafixbj/public_html/proses_login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:44 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vmafixbj/public_html/proses_login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:57 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vmafixbj/public_html/proses_login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:38:00 UTC] PHP Warning:  Undefined array key "username" in /home/vmafixbj/public_html/proses_login.php on line 4
+[17-Apr-2025 15:38:00 UTC] PHP Warning:  Undefined array key "password" in /home/vmafixbj/public_html/proses_login.php on line 5
+[17-Apr-2025 15:38:00 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vmafixbj/public_html/proses_login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/proses_login.php on line 7
+[17-Apr-2025 15:41:33 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/datakaryawan.php on line 286
+[17-Apr-2025 15:41:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vmafixbj/public_html/datakaryawan.php:286
+Stack trace:
+#0 /home/vmafixbj/public_html/datakaryawan.php(286): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/vmafixbj/public_html/datakaryawan.php on line 286
+[17-Apr-2025 15:41:41 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/datauser.php on line 232
+[17-Apr-2025 15:41:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vmafixbj/public_html/datauser.php:232
+Stack trace:
+#0 /home/vmafixbj/public_html/datauser.php(232): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/vmafixbj/public_html/datauser.php on line 232
+[17-Apr-2025 15:41:52 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/datajabatan.php on line 265
+[17-Apr-2025 15:41:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vmafixbj/public_html/datajabatan.php:265
+Stack trace:
+#0 /home/vmafixbj/public_html/datajabatan.php(265): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/vmafixbj/public_html/datajabatan.php on line 265
+[17-Apr-2025 18:34:23 UTC] PHP Warning:  Undefined array key "username" in /home/vmafixbj/public_html/proses_login.php on line 5
+[17-Apr-2025 18:34:23 UTC] PHP Warning:  Undefined array key "password" in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 18:39:22 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/datakaryawan.php on line 286
+[17-Apr-2025 18:39:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vmafixbj/public_html/datakaryawan.php:286
+Stack trace:
+#0 /home/vmafixbj/public_html/datakaryawan.php(286): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/vmafixbj/public_html/datakaryawan.php on line 286
+[17-Apr-2025 18:39:29 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/datauser.php on line 232
+[17-Apr-2025 18:39:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vmafixbj/public_html/datauser.php:232
+Stack trace:
+#0 /home/vmafixbj/public_html/datauser.php(232): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/vmafixbj/public_html/datauser.php on line 232
+[17-Apr-2025 18:39:33 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/datajabatan.php on line 265
+[17-Apr-2025 18:39:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/vmafixbj/public_html/datajabatan.php:265
+Stack trace:
+#0 /home/vmafixbj/public_html/datajabatan.php(265): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/vmafixbj/public_html/datajabatan.php on line 265
+[17-Apr-2025 18:39:57 UTC] PHP Warning:  Undefined variable $username in /home/vmafixbj/public_html/admin2.php on line 106
+[17-Apr-2025 20:24:10 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 20:24:17 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 20:33:32 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 20:35:11 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 20:42:06 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 20:43:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'your_cpanel_db_username'@'localhost' (using password: YES) in /home/vmafixbj/public_html/koneksi.php on line 7
+[17-Apr-2025 20:45:05 UTC] PHP Warning:  Undefined variable $koneksi in /home/vmafixbj/public_html/proses_login.php on line 6
+[17-Apr-2025 20:45:56 UTC] PHP Warning:  Undefined variable $username in /home/vmafixbj/public_html/koneksi.php on line 7
+[17-Apr-2025 20:45:56 UTC] PHP Warning:  Undefined variable $password in /home/vmafixbj/public_html/koneksi.php on line 7
+[17-Apr-2025 20:45:56 UTC] PHP Warning:  Undefined variable $database in /home/vmafixbj/public_html/koneksi.php on line 7
+[17-Apr-2025 20:45:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/vmafixbj/public_html/koneksi.php on line 7
+[17-Apr-2025 21:04:33 UTC] PHP Warning:  Undefined variable $Shit0612 in /home/vmafixbj/public_html/koneksi.php on line 4
+[17-Apr-2025 21:04:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vmafixbj_rijal'@'localhost' (using password: YES) in /home/vmafixbj/public_html/koneksi.php on line 7
+[17-Apr-2025 21:09:43 UTC] PHP Warning:  Undefined variable $Shit0612 in /home/vmafixbj/public_html/koneksi.php on line 4
+[17-Apr-2025 21:09:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vmafixbj_rijal'@'localhost' (using password: YES) in /home/vmafixbj/public_html/koneksi.php on line 7
+[23-Apr-2025 14:52:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vmafixbj/public_html/dt_karyawan_sv.php:31) in /home/vmafixbj/public_html/dt_karyawan_sv.php on line 40
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:14 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:37 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:21:47 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:25:48 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 304
+[23-Apr-2025 18:27:36 UTC] PHP Warning:  Undefined array key "id" in /home/vmafixbj/public_html/data_absen.php on line 305
+[23-Apr-2025 20:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 20:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 20:55:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 20:55:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 20:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 20:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/vmafixbj/public_html/data_absen.php:345
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 345
+[23-Apr-2025 21:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/vmafixbj/public_html/data_absen.php:345
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 345
+[23-Apr-2025 21:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 21:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[23-Apr-2025 21:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/vmafixbj/public_html/data_absen.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 347
+[25-Apr-2025 09:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vmafixbj/public_html/data_absen.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/vmafixbj/public_html/data_absen.php on line 72
